@@ -1,4 +1,5 @@
 # Python-Diwali-Sales-Analysis
+## Project Overview:
 -This project focuses on performing Exploratory Data Analysis (EDA) on a Diwali sales dataset using Python. The objective is to identify customer purchasing patterns, product performance, and sales trends during the festive season, enabling businesses to make informed, data-driven decisions.
 
 📁 Dataset:
@@ -29,7 +30,7 @@ Married female customers aged 26–35 from Tier 1 cities.
 Businesses can focus marketing and inventory strategies on this demographic to maximize festive sales and ROI.
 
 
-### **Project Learnings**
+## **Project Learnings**
 * Performed data cleaning and manipulation
 * Performed exploratory data analysis (EDA) using pandas, matplotlib and seaborn libraries
 * Improved customer experience by identifying potential customers across different states, occupation, gender and age groups
